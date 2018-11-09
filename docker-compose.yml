@@ -4,4 +4,4 @@ services:
 
   java:
     build: .
-    image: rayba82/debian:stretch
+    image: rayba82/debian:latest
